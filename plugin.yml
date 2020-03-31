@@ -1,0 +1,5 @@
+name: Coin
+main: ojy\coin\Coin
+api: 4.0.0
+version: B1
+author: ojy
